@@ -6,6 +6,7 @@ Check wiki for documentation of work done on 2005 IS300
 
 Fluids Recommendation:
 Component | Amount | Mfg | Part Number | Comment
+--- | --- | --- | --- | ---
 Engine Oil | 6Qt | Mobile 1 | 120769 | Synthetic 5w 30 <br> Crush Washer required
 Oil Filter | 1 | Mobile 1 | M1-102A | Hand Tight <br> Filter wrench available
 Automatic Transmission Fluid | 3Qt | Toyota | 00279-000T4 | Toyota Brand
