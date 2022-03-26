@@ -24,3 +24,7 @@ Adding Oil | xxxxx | March 21, 2022 | Saw that it was 1 quart low so added 1 Qt 
 Coolant | xxxxx | March 21, 2022 | Top off radiator fluid
 Adding Oil | xxxxx | March 25, 2022 | 1 quart low so added 1 Qt Mobile 1
 
+
+
+
+Code P0012 - [Camshaft A Position Sensor](https://www.700r4transmissionhq.com/p0012-lexus-is-300/)
