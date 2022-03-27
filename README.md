@@ -11,6 +11,7 @@ Engine Oil | 6Qt | Mobile 1 | 120769 | Synthetic 5w 30 <br> Crush Washer require
 Oil Filter | 1 | Mobile 1 | M1-102A | Hand Tight <br> Filter wrench available
 Automatic Transmission Fluid | 3Qt | Toyota | 00279-000T4 | Toyota Brand
 Auto Trans Filter | 1 | Toyota | 35330-30070 | Part of [Trans Fluid Assembly](https://www.lexuspartsnow.com/parts-list/2005-lexus-is300/power_train_chassis/valve_body_oil_strainer_atm.html?pnc=35339)
+Air Filter | 1 | Denso | 143-3044 | Denso Air Filter if Toyota no available
 
 Maintenance Record
 
@@ -23,6 +24,7 @@ Transmission Oil Flush | xxxxx | March 21, 2022 | 3Qt Toyota Transmission - 0027
 Adding Oil | xxxxx | March 21, 2022 | Saw that it was 1 quart low so added 1 Qt Mobile 1
 Coolant | xxxxx | March 21, 2022 | Top off radiator fluid
 Adding Oil | xxxxx | March 25, 2022 | 1 quart low so added 1 Qt Mobile 1
+Replace Air Filter | xxxxx | March 26, 2022 | Denso Air Filter
 
 
 
